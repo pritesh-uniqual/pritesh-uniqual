@@ -14,6 +14,17 @@ Building scalable Mobile Apps, Web Platforms & AI Powered Solutions for startups
 
 ---
 
+
+# 🛠️ Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,nestjs,express,mongodb,mysql,postgres,firebase,aws,docker,kubernetes,swift,kotlin,typescript,javascript,figma,git" />
+
+</p>
+
+---
+
 # 👋 About Us
 
 At <b>UniQual iTech</b>, we transform ideas into powerful digital products.
@@ -156,17 +167,6 @@ We help startups, founders, and businesses launch high-performance software prod
 - Analytics Platforms
 
 ---
-
-# 🛠️ Tech Stack
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,nestjs,express,mongodb,mysql,postgres,firebase,aws,docker,kubernetes,swift,kotlin,typescript,javascript,figma,git" />
-
-</p>
-
----
-
 
 
 # 🌍 Industries We Serve
