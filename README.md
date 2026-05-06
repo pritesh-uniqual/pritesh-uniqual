@@ -1,213 +1,193 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Mobile+App+Development;React+%26+Node.js+Experts;AI+Powered+Solutions;Startup+to+Enterprise+Development" />
-</p>
+<div align="center">
 
-<h1 align="center">🚀 UniQual iTech</h1>
+# 🚀 UniQual iTech
 
-<h3 align="center">
-Maverick Software Development House
-</h3>
+### Building Scalable Mobile Apps, SaaS Platforms & AI Solutions
 
 <p align="center">
-Building scalable Mobile Apps, Web Platforms & AI Powered Solutions for startups and enterprises worldwide.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Mobile+App+Development+Experts;React+%26+Node.js+Specialists;AI+Powered+Software+Solutions;Startup+to+Enterprise+Development;Building+Digital+Products+Worldwide" />
 </p>
 
----
+<p align="center">
 
-# 👋 About Us
+<img src="https://img.shields.io/badge/Founded-Innovation-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Mobile%20Apps-Flutter%20%7C%20SwiftUI%20%7C%20Kotlin-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Web%20Apps-React%20%7C%20Next.js%20%7C%20Node.js-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Solutions-OpenAI%20%7C%20Automation-orange?style=for-the-badge" />
 
-At <b>UniQual iTech</b>, we transform ideas into powerful digital products.
+</p>
 
-We specialize in:
-
-- 📱 Mobile App Development
-- 🌐 Web App Development
-- ⚙️ Backend & API Development
-- ☁️ Cloud & DevOps
-- 🤖 AI Integrations
-- 🎨 UI/UX Design
-- 🚀 MVP Development
-- 📈 Enterprise Scale Solutions
-
-We help startups, founders, and businesses launch high-performance software products with modern technologies and scalable architecture.
+</div>
 
 ---
 
-# 💪 Our Strengths
+# 👋 Who We Are
 
-✅ Fast Development Cycles  
-✅ Clean & Scalable Architecture  
-✅ Strong UI/UX Focus  
-✅ High Performance Applications  
-✅ Agile Development Process  
-✅ Dedicated Development Teams  
-✅ Startup to Enterprise Expertise  
-✅ Long-Term Technical Partnerships  
-✅ Excellent Communication & Transparency
+At **UniQual iTech**, we engineer high-quality digital products for startups, enterprises, and visionary founders worldwide.
+
+We combine:
+
+- ⚡ Fast execution
+- 🎨 Premium UI/UX
+- 🧠 Smart architecture
+- ☁️ Scalable infrastructure
+- 🤖 AI innovation
+
+to build products users love.
 
 ---
 
-# 📱 Mobile App Development
+# 💼 Our Core Services
 
-### Native iOS Development
+<table>
+<tr>
+<td width="50%">
+
+## 📱 Mobile App Development
+
+### Native iOS
 - Swift
 - SwiftUI
 - UIKit
 
-### Native Android Development
+### Native Android
 - Kotlin
 - Jetpack Compose
-- Java
 
-### Cross Platform Development
+### Cross Platform
 - Flutter
 - React Native
 
-### Mobile Expertise
-- Real-time Apps
-- AI Powered Apps
+### Expertise
+- Real-time Applications
 - Streaming Apps
-- Social Platforms
-- Health & Fitness Apps
-- Dating Apps
-- E-commerce Apps
 - Marketplace Apps
-- Booking Platforms
+- Health & Fitness Apps
+- Dating Platforms
 - Subscription Systems
-- Payment Gateway Integration
-- Firebase & Push Notifications
+- Payment Integrations
 
----
+</td>
 
-# 🌐 Frontend Development
+<td width="50%">
 
-### React Based Technologies
+## 🌐 Web & SaaS Development
+
+### Frontend
 - React.js
 - Next.js
 - Remix
 - Gatsby
-- React Native
-- Expo
 
-### Frontend Skills
-- Responsive UI
-- Admin Dashboards
-- SaaS Platforms
-- Progressive Web Apps (PWA)
-- Real-time Systems
-- SEO Optimized Applications
-- Modern UI/UX Design
-
----
-
-# ⚙️ Backend Development
-
-### Node.js Technologies
+### Backend
 - Node.js
-- Express.js
 - NestJS
+- Express.js
 - Fastify
 
-### Backend Expertise
-- REST APIs
-- GraphQL APIs
-- Microservices
-- WebSocket Systems
-- Authentication & Authorization
-- Payment Systems
-- Cloud Functions
-- Scalable Architectures
-- Multi-Tenant SaaS Platforms
-
----
-
-# 🗄️ Databases
-
-- MongoDB
-- PostgreSQL
-- MySQL
-- Firebase
-- Redis
-- Supabase
-
----
-
-# ☁️ Cloud & DevOps
-
-- AWS
-- Google Cloud
-- Docker
-- CI/CD Pipelines
-- VPS Deployment
-- Kubernetes
-- Nginx
-- Cloudflare
-
----
-
-# 🤖 AI & Advanced Technologies
-
-- OpenAI Integrations
-- AI Chatbots
-- AI Automation
-- Machine Learning Solutions
-- AI Content Generation
-- Recommendation Systems
-- Analytics Platforms
-
----
-
-# 🛠️ Tech Stack
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,nestjs,express,mongodb,mysql,postgres,firebase,aws,docker,kubernetes,swift,kotlin,typescript,javascript,figma,git" />
-
-</p>
-
----
-
-
-
-# 🌍 Industries We Serve
-
-- Healthcare
-- Fitness
-- Education
-- E-commerce
-- Social Media
-- Real Estate
-- Event Management
-- AI Products
-- FinTech
+### Solutions
 - SaaS Platforms
-- Logistics
-- On-Demand Services
+- Admin Dashboards
+- Enterprise Systems
+- CRM Platforms
+- AI Powered Systems
+- Scalable APIs
+- Multi-Tenant Platforms
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 Why Clients Choose UniQual
+# ⚡ Technologies We Use
 
-⭐ High Quality Code  
-⭐ Strong Architecture  
-⭐ Long-Term Reliability  
-⭐ Transparent Communication  
-⭐ Fast Delivery  
-⭐ Great Product Understanding  
-⭐ Dedicated Support  
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,nestjs,express,typescript,javascript,swift,kotlin,mongodb,postgres,mysql,firebase,redis,docker,kubernetes,aws,gcp,figma,git" />
+
+</div>
 
 ---
 
-# 🤝 Let's Build Something Amazing
+# 🧠 Our Expertise
 
-📧 Contact us for collaboration, partnerships, or software development services.
+<div align="center">
 
-🌐 Website: https://uniqualitech.com/
+| Architecture | Cloud | AI | Design |
+|---|---|---|---|
+| Microservices | AWS | OpenAI APIs | UI/UX |
+| REST APIs | Docker | AI Automation | Product Design |
+| WebSockets | Kubernetes | Recommendation Systems | Design Systems |
+| Scalable Systems | CI/CD | AI Chatbots | Responsive Interfaces |
 
-📍 India | Australia | Canada
+</div>
 
 ---
 
-<p align="center">
-<b>We Are Savage, Not Average 🚀</b>
-</p>
+# 🚀 Industries We Serve
+
+<div align="center">
+
+| Healthcare | Fitness | FinTech | E-Commerce |
+|---|---|---|---|
+| Education | Social Media | SaaS | Real Estate |
+| Event Management | Logistics | AI Products | On-Demand Services |
+
+</div>
+
+---
+
+# 📈 Why Businesses Choose UniQual
+
+✅ Startup to Enterprise Experience  
+✅ Scalable Product Architecture  
+✅ Clean & Maintainable Code  
+✅ Fast Development Cycles  
+✅ Long-Term Technical Support  
+✅ Dedicated Engineering Teams  
+✅ Strong Communication & Transparency  
+✅ Modern UI/UX Standards  
+
+---
+
+# 🌍 Global Development Partner
+
+We collaborate with businesses worldwide to build scalable digital products.
+
+### Our Development Philosophy
+
+> Build fast.  
+> Scale smart.  
+> Deliver quality.  
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritesh-uniqual&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🤝 Let's Build Something Great
+
+<div align="center">
+
+### 🚀 Available For
+Mobile Apps • SaaS Platforms • AI Products • MVP Development • Enterprise Systems
+
+<br/>
+
+🌐 https://uniqualitech.com/
+
+<br/>
+
+### ⚡ "We Build Products That Scale"
+
+</div>
